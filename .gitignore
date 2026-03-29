@@ -8,7 +8,10 @@
 
 # Dependencies
 tendon_health_export/nextjs_space/node_modules/
-tendon_health_export/nextjs_space/.yarn/install-state.gz
+
+# Yarn — environment-specific, not needed on Vercel
+tendon_health_export/nextjs_space/.yarn/
+tendon_health_export/nextjs_space/.yarnrc.yml
 
 # Next.js build output
 tendon_health_export/nextjs_space/.next/
