@@ -1,0 +1,467 @@
+{
+  "tendons": [
+    {
+      "name": "Achilles Tendon",
+      "anatomical_description": "The Achilles tendon is a tough band of fibrous tissue that connects the calf muscles to the heel bone (calcaneus).",
+      "common_issues": "Achilles tendinopathy, Achilles tendon rupture."
+    },
+    {
+      "name": "Patellar Tendon",
+      "anatomical_description": "The patellar tendon connects the bottom of the kneecap (patella) to the top of the shinbone (tibia).",
+      "common_issues": "Patellar tendinopathy (Jumper's Knee)."
+    },
+    {
+      "name": "Quadriceps Tendon",
+      "anatomical_description": "The quadriceps tendon connects the quadriceps muscles (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius) to the top of the kneecap (patella). It works with the patellar tendon to extend the knee.",
+      "common_issues": "Quadriceps tendinopathy, partial tears, post-surgical weakness. Common in athletes over 30 and those involved in jumping, running, or heavy squatting."
+    },
+    {
+      "name": "Hamstring Tendons",
+      "anatomical_description": "The hamstring tendons connect the hamstring muscles to the back of the knee and the pelvis.",
+      "common_issues": "Hamstring tendinopathy, hamstring strains."
+    },
+    {
+      "name": "Hip Flexor Tendons",
+      "anatomical_description": "The hip flexor tendons connect the hip flexor muscles to the front of the hip and thigh.",
+      "common_issues": "Hip flexor tendinopathy, hip flexor strains."
+    },
+    {
+      "name": "Rotator Cuff Tendons",
+      "anatomical_description": "The rotator cuff is a group of four tendons and muscles that surround the shoulder joint, keeping the head of the upper arm bone firmly within the shallow socket of the shoulder.",
+      "common_issues": "Rotator cuff tendinopathy, rotator cuff tears."
+    },
+    {
+      "name": "Biceps Tendon",
+      "anatomical_description": "The biceps tendon connects the biceps muscle to the shoulder and elbow.",
+      "common_issues": "Biceps tendinopathy, biceps tendon tears."
+    },
+    {
+      "name": "Tennis Elbow (Lateral Epicondyle)",
+      "anatomical_description": "The lateral epicondyle is the bony bump on the outside of the elbow. The tendons that attach to this point are responsible for extending the wrist and fingers.",
+      "common_issues": "Lateral epicondylitis (Tennis Elbow)."
+    },
+    {
+      "name": "Golfer's Elbow (Medial Epicondyle)",
+      "anatomical_description": "The medial epicondyle is the bony bump on the inside of the elbow. The tendons that attach to this point are responsible for flexing the wrist and fingers.",
+      "common_issues": "Medial epicondylitis (Golfer's Elbow)."
+    },
+    {
+      "name": "Hand Tendons",
+      "anatomical_description": "The hand has a complex network of tendons that control the movement of the fingers and wrist.",
+      "common_issues": "Tenosynovitis, trigger finger, De Quervain's tenosynovitis."
+    },
+    {
+      "name": "Foot Tendons",
+      "anatomical_description": "The foot has numerous tendons that support the arch and control the movement of the toes and ankle.",
+      "common_issues": "Plantar fasciitis, posterior tibial tendon dysfunction."
+    }
+  ],
+  "exercises": [
+    {
+      "exercise_name": "Isometric Wall Sit",
+      "target_tendons": [
+        "Patellar Tendon",
+        "Quadriceps Tendon"
+      ],
+      "protocol_type": "rehab",
+      "equipment_needed": [
+        "bodyweight"
+      ],
+      "hold_duration": "30-45 seconds",
+      "sets": "4-5",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "60 degrees of knee flexion",
+      "load_guidance": "Start with two legs, progress to single leg. Push back against the wall and foot into the ground to generate force. Aim for ~70% of max effort.",
+      "progression_steps": "1. Two-legged wall sit. 2. Single-leg wall sit. 3. Increase hold duration. 4. Add weight (e.g., holding a dumbbell).",
+      "form_cues": "Keep your back flat against the wall. Your knee should be directly above your ankle.",
+      "safety_notes": "If single-leg is too difficult, start with two legs. Stop if you feel sharp pain.",
+      "video_url": "https://www.youtube.com/watch?v=ovvf5MbVaMw"
+    },
+    {
+      "exercise_name": "Isometric Leg Extension",
+      "target_tendons": [
+        "Patellar Tendon",
+        "Quadriceps Tendon"
+      ],
+      "protocol_type": "rehab",
+      "equipment_needed": [
+        "cable machine",
+        "resistance bands"
+      ],
+      "hold_duration": "30 seconds",
+      "sets": "5",
+      "frequency": "5 days per week",
+      "joint_angle": "Pushing against an immovable object at the bottom of the leg extension machine.",
+      "load_guidance": "Push as hard as possible for the duration of the hold.",
+      "progression_steps": "Increase the force of the contraction.",
+      "form_cues": "Focus on contracting the quadriceps muscle.",
+      "safety_notes": "Ensure the machine is set up correctly and the weight is appropriate.",
+      "video_url": "https://youtube.com/shorts/BuLIGUWQynk"
+    },
+    {
+      "exercise_name": "Isometric Lunge",
+      "target_tendons": [
+        "Patellar Tendon",
+        "Quadriceps Tendon",
+        "Achilles Tendon"
+      ],
+      "protocol_type": "both",
+      "equipment_needed": [
+        "bodyweight"
+      ],
+      "hold_duration": "10-30 seconds",
+      "sets": "Not specified, but likely multiple sets.",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Front leg at 90 degrees, back knee down. To target Achilles, move front knee forward.",
+      "load_guidance": "Start with support (e.g., hands on a chair), progress to no support.",
+      "progression_steps": "1. Use two hands for support. 2. Use one hand for support. 3. No hands for support. 4. Increase hold duration.",
+      "form_cues": "Keep your torso upright. Your front knee should be aligned with your front foot.",
+      "safety_notes": "Use support as needed to maintain balance. Stop if you feel sharp pain.",
+      "video_url": "https://www.youtube.com/shorts/FeX9_y_gOvc"
+    },
+    {
+      "exercise_name": "Isometric Squat",
+      "target_tendons": [
+        "Patellar Tendon",
+        "Quadriceps Tendon"
+      ],
+      "protocol_type": "both",
+      "equipment_needed": [
+        "bodyweight"
+      ],
+      "hold_duration": "10-30 seconds",
+      "sets": "Not specified, but likely multiple sets.",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Squat down to a comfortable depth.",
+      "load_guidance": "Start with support (e.g., hands on a chair), progress to no support.",
+      "progression_steps": "1. Use support. 2. No support. 3. Increase hold duration. 4. Add weight.",
+      "form_cues": "Keep your chest up and your back straight. Your feet should be shoulder-width apart.",
+      "safety_notes": "Use support as needed. Don't go too deep if you feel pain.",
+      "video_url": "https://www.youtube.com/shorts/FhYVwV9GwFs"
+    },
+    {
+      "exercise_name": "Isometric Push-Up",
+      "target_tendons": [
+        "Rotator Cuff Tendons",
+        "Biceps Tendon",
+        "Triceps Tendon"
+      ],
+      "protocol_type": "both",
+      "equipment_needed": [
+        "bodyweight"
+      ],
+      "hold_duration": "10-30 seconds",
+      "sets": "Not specified, but likely multiple sets.",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Hold the push-up position at a desired height.",
+      "load_guidance": "Start with an incline (e.g., against a wall or table), progress to the floor.",
+      "progression_steps": "1. Incline push-up hold. 2. Floor push-up hold. 3. Increase hold duration.",
+      "form_cues": "Keep your body in a straight line from your head to your heels. Your hands should be shoulder-width apart.",
+      "safety_notes": "Start with an incline to reduce the load. Stop if you feel sharp pain in your shoulders or elbows.",
+      "video_url": "https://www.youtube.com/shorts/eEFxxwemU2Q"
+    },
+    {
+      "exercise_name": "Isometric Achilles Heel Raise",
+      "target_tendons": [
+        "Achilles Tendon"
+      ],
+      "protocol_type": "rehab",
+      "equipment_needed": [
+        "bodyweight"
+      ],
+      "hold_duration": "30-45 seconds",
+      "sets": "5",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Pushing against a wall with toes cocked, feet flat, and knees bent or straight.",
+      "load_guidance": "Focus on feeling tension without pain.",
+      "progression_steps": "Increase the force of the contraction.",
+      "form_cues": "Keep your heel on the ground. Lean into the wall to increase the stretch.",
+      "safety_notes": "Stop if you feel sharp pain.",
+      "video_url": "https://www.youtube.com/watch?v=IEfyCfCtIJA"
+    },
+    {
+      "exercise_name": "Isometric Hamstring Curl",
+      "target_tendons": [
+        "Hamstring Tendons"
+      ],
+      "protocol_type": "rehab",
+      "equipment_needed": [
+        "resistance bands",
+        "cable machine"
+      ],
+      "hold_duration": "30 seconds",
+      "sets": "Not specified, but likely multiple sets.",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Hold the hamstring curl at a specific angle.",
+      "load_guidance": "Use a resistance that allows you to hold the contraction for the desired duration.",
+      "progression_steps": "Increase the resistance.",
+      "form_cues": "Focus on contracting the hamstring muscles.",
+      "safety_notes": "Ensure the band or machine is set up correctly.",
+      "video_url": "https://www.youtube.com/watch?v=hQYlk0mjs38"
+    },
+    {
+      "exercise_name": "Isometric Hip Flexion",
+      "target_tendons": [
+        "Hip Flexor Tendons"
+      ],
+      "protocol_type": "rehab",
+      "equipment_needed": [
+        "resistance bands",
+        "cable machine"
+      ],
+      "hold_duration": "30 seconds",
+      "sets": "Not specified, but likely multiple sets.",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Hold the hip flexion at a specific angle.",
+      "load_guidance": "Use a resistance that allows you to hold the contraction for the desired duration.",
+      "progression_steps": "Increase the resistance.",
+      "form_cues": "Focus on contracting the hip flexor muscles.",
+      "safety_notes": "Ensure the band or machine is set up correctly.",
+      "video_url": "https://www.youtube.com/watch?v=hILN6X3XWNE"
+    },
+    {
+      "exercise_name": "Isometric External Rotation",
+      "target_tendons": [
+        "Rotator Cuff Tendons"
+      ],
+      "protocol_type": "rehab",
+      "equipment_needed": [
+        "resistance bands",
+        "cable machine"
+      ],
+      "hold_duration": "30 seconds",
+      "sets": "Not specified, but likely multiple sets.",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Hold the external rotation at a specific angle.",
+      "load_guidance": "Use a resistance that allows you to hold the contraction for the desired duration.",
+      "progression_steps": "Increase the resistance.",
+      "form_cues": "Keep your elbow at your side.",
+      "safety_notes": "Don't use a weight that is too heavy.",
+      "video_url": "https://youtu.be/K1OWFdhPbAg"
+    },
+    {
+      "exercise_name": "Isometric Shoulder Flexion",
+      "target_tendons": [
+        "Biceps Tendon",
+        "Rotator Cuff Tendons"
+      ],
+      "protocol_type": "both",
+      "equipment_needed": [
+        "bodyweight",
+        "resistance bands",
+        "cable machine"
+      ],
+      "hold_duration": "30-45 seconds",
+      "sets": "4-5",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "90 degrees of shoulder flexion (arm raised forward to shoulder height)",
+      "load_guidance": "Start with bodyweight (press arm against wall or doorframe at shoulder height). Progress to resistance bands or cable machine. Aim for ~70% of max effort. This exercise is crucial for loading the biceps tendon at its shoulder insertion.",
+      "progression_steps": "1. Bodyweight isometric press against wall at 90 degrees. 2. Light resistance band anchored low, hold arm at 90 degrees. 3. Increase band resistance. 4. Cable machine at low setting, hold at 90 degrees. 5. Increase cable weight gradually.",
+      "form_cues": "Stand facing away from anchor point. Raise arm straight forward to shoulder height (90 degrees). Hold position against resistance. Keep elbow straight or slightly bent. Maintain neutral wrist. Keep shoulder blade pulled down and back \u2014 do not shrug.",
+      "safety_notes": "Avoid if acute shoulder impingement is present. Stop if you feel pinching at the front of the shoulder. This exercise specifically loads the long head of the biceps tendon at its proximal insertion on the shoulder, making it essential for biceps tendon rehab and maintenance.",
+      "video_url": "https://youtu.be/YfHajwyiXHU"
+    },
+    {
+      "exercise_name": "Isometric Shoulder Internal Rotation",
+      "target_tendons": [
+        "Rotator Cuff Tendons"
+      ],
+      "protocol_type": "both",
+      "equipment_needed": [
+        "bodyweight",
+        "resistance bands",
+        "cable machine"
+      ],
+      "hold_duration": "30-45 seconds",
+      "sets": "4-5",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "90 degrees of elbow flexion, arm at side, rotating inward",
+      "load_guidance": "Start by pressing palm against a wall or doorframe with elbow bent at 90 degrees. Progress to resistance bands or cable machine. Aim for ~70% of max effort. Pair with external rotation for balanced rotator cuff loading.",
+      "progression_steps": "1. Bodyweight isometric press against wall/doorframe. 2. Light resistance band anchored at elbow height. 3. Increase band resistance. 4. Cable machine at elbow height. 5. Increase cable weight gradually.",
+      "form_cues": "Stand with elbow bent 90 degrees and tucked at your side. Place a small towel roll between elbow and torso to maintain proper positioning. Press inward against resistance. Keep shoulder blade stable \u2014 do not let the shoulder roll forward. Maintain upright posture throughout.",
+      "safety_notes": "Balance internal rotation work with external rotation exercises to avoid creating muscular imbalances. Reduce load if you feel anterior shoulder pain. Internal and external rotation together provide comprehensive rotator cuff tendon loading.",
+      "video_url": "https://youtu.be/Y5PbMAMEwpk"
+    },
+    {
+      "exercise_name": "Isometric Biceps Curl",
+      "target_tendons": [
+        "Biceps Tendon"
+      ],
+      "protocol_type": "rehab",
+      "equipment_needed": [
+        "dumbbells",
+        "resistance bands",
+        "cable machine"
+      ],
+      "hold_duration": "30 seconds",
+      "sets": "Not specified, but likely multiple sets.",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Hold the biceps curl at a specific angle (e.g., 90 degrees).",
+      "load_guidance": "Use a weight or resistance that allows you to hold the contraction for the desired duration.",
+      "progression_steps": "Increase the weight or resistance.",
+      "form_cues": "Keep your elbow at your side.",
+      "safety_notes": "Don't use a weight that is too heavy.",
+      "video_url": "https://www.youtube.com/watch?v=JNXc7gIieKI"
+    },
+    {
+      "exercise_name": "Isometric Wrist Extension",
+      "target_tendons": [
+        "Tennis Elbow (Lateral Epicondyle)"
+      ],
+      "protocol_type": "rehab",
+      "equipment_needed": [
+        "dumbbells",
+        "resistance bands"
+      ],
+      "hold_duration": "30 seconds",
+      "sets": "Not specified, but likely multiple sets.",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Hold the wrist in an extended position.",
+      "load_guidance": "Use a light weight or resistance.",
+      "progression_steps": "Increase the weight or resistance.",
+      "form_cues": "Keep your forearm supported on a table.",
+      "safety_notes": "Stop if you feel sharp pain.",
+      "video_url": "https://www.youtube.com/watch?v=6J5MUqxUKkw"
+    },
+    {
+      "exercise_name": "Isometric Wrist Flexion",
+      "target_tendons": [
+        "Golfer's Elbow (Medial Epicondyle)"
+      ],
+      "protocol_type": "rehab",
+      "equipment_needed": [
+        "dumbbells",
+        "resistance bands"
+      ],
+      "hold_duration": "30 seconds",
+      "sets": "Not specified, but likely multiple sets.",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Hold the wrist in a flexed position.",
+      "load_guidance": "Use a light weight or resistance.",
+      "progression_steps": "Increase the weight or resistance.",
+      "form_cues": "Keep your forearm supported on a table.",
+      "safety_notes": "Stop if you feel sharp pain.",
+      "video_url": "https://www.youtube.com/watch?v=aeh675qi9Ls"
+    },
+    {
+      "exercise_name": "Isometric Terminal Knee Extension",
+      "target_tendons": [
+        "Quadriceps Tendon"
+      ],
+      "protocol_type": "rehab",
+      "equipment_needed": [
+        "resistance bands"
+      ],
+      "hold_duration": "30-45 seconds",
+      "sets": "4-5",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "Near full extension (10-15 degrees flexion)",
+      "load_guidance": "Loop band behind knee, anchor behind you. Push knee into full extension against band resistance. Start light, aim for ~70% max effort.",
+      "progression_steps": "1. Light resistance band. 2. Medium resistance band. 3. Heavy resistance band. 4. Increase hold duration to 45 seconds.",
+      "form_cues": "Stand tall with band looped behind the working knee. Drive knee straight back against band. Keep hips level and core engaged. Focus on squeezing the quad fully.",
+      "safety_notes": "Avoid hyperextension. Stop if you feel sharp pain above the kneecap. This exercise specifically loads the quadriceps tendon near its insertion.",
+      "video_url": "https://www.youtube.com/watch?v=3lBqPRdEqlU"
+    },
+    {
+      "exercise_name": "Isometric Spanish Squat",
+      "target_tendons": [
+        "Quadriceps Tendon",
+        "Patellar Tendon"
+      ],
+      "protocol_type": "both",
+      "equipment_needed": [
+        "resistance bands"
+      ],
+      "hold_duration": "30-45 seconds",
+      "sets": "4-5",
+      "frequency": "Daily or near-daily",
+      "joint_angle": "70-90 degrees of knee flexion",
+      "load_guidance": "Loop a heavy band behind the knees, anchored to a fixed object at knee height. Sit back into squat position, letting the band support shear forces on the knee. Start with shallow depth, progress deeper.",
+      "progression_steps": "1. Shallow depth (45 degrees). 2. Moderate depth (70 degrees). 3. Full depth (90 degrees). 4. Add external load (hold dumbbell or kettlebell).",
+      "form_cues": "Band loops behind both knees. Lean back and sit into squat. Keep shins vertical \u2014 the band pulls knees forward so you can keep torso upright. Squeeze quads isometrically at chosen depth.",
+      "safety_notes": "Use a sturdy anchor point. The band should be thick enough to support your weight. Excellent for loading the quad tendon with reduced patellar compression.",
+      "video_url": "https://www.youtube.com/watch?v=xZ-DXxnQlMk"
+    },
+    {
+      "exercise_name": "Isometric Leg Press Hold",
+      "target_tendons": [
+        "Quadriceps Tendon",
+        "Patellar Tendon"
+      ],
+      "protocol_type": "maintenance",
+      "equipment_needed": [
+        "cable machine"
+      ],
+      "hold_duration": "30-45 seconds",
+      "sets": "3-4",
+      "frequency": "3-4 times per week",
+      "joint_angle": "60-90 degrees of knee flexion",
+      "load_guidance": "Use a leg press or cable machine. Set weight to ~70% of your max. Hold the position isometrically without locking out. Progress load gradually over weeks.",
+      "progression_steps": "1. Light load at 90 degrees. 2. Moderate load at 90 degrees. 3. Heavy load at 90 degrees. 4. Moderate load at 60 degrees (harder angle).",
+      "form_cues": "Feet shoulder-width apart on platform. Press to desired angle and hold. Do not lock knees. Keep back flat against pad. Breathe steadily throughout the hold.",
+      "safety_notes": "Ensure safety stops are set. Do not lock out knees. Reduce load if you feel pain above the kneecap.",
+      "video_url": "https://www.youtube.com/watch?v=IZxyjW7MPJQ"
+    },
+    {
+      "exercise_name": "Weighted Isometric Wall Sit",
+      "target_tendons": [
+        "Quadriceps Tendon",
+        "Patellar Tendon"
+      ],
+      "protocol_type": "maintenance",
+      "equipment_needed": [
+        "dumbbells",
+        "kettlebells"
+      ],
+      "hold_duration": "30-45 seconds",
+      "sets": "3-4",
+      "frequency": "3-4 times per week",
+      "joint_angle": "60-90 degrees of knee flexion",
+      "load_guidance": "Hold dumbbells or kettlebell on lap/chest during wall sit. Start with light weight and progress. Target ~70% max perceived effort.",
+      "progression_steps": "1. Bodyweight wall sit mastered. 2. Light dumbbell/kettlebell (5-10 lbs). 3. Moderate weight (15-25 lbs). 4. Heavy weight (30+ lbs). 5. Single-leg with light weight.",
+      "form_cues": "Back flat against wall. Knees at 90 degrees or chosen angle. Hold weight securely on lap or hugged to chest. Push feet firmly into the ground.",
+      "safety_notes": "Ensure you can safely set the weight down when fatigued. Use a mat under feet for grip. Progress weight slowly.",
+      "video_url": "https://www.youtube.com/watch?v=ovvf5MbVaMw"
+    },
+    {
+      "exercise_name": "Isometric Barbell Squat Hold",
+      "target_tendons": [
+        "Quadriceps Tendon",
+        "Patellar Tendon",
+        "Hip Flexor Tendons"
+      ],
+      "protocol_type": "maintenance",
+      "equipment_needed": [
+        "barbell"
+      ],
+      "hold_duration": "20-30 seconds",
+      "sets": "3-4",
+      "frequency": "2-3 times per week",
+      "joint_angle": "60-90 degrees of knee flexion",
+      "load_guidance": "Use a squat rack with safety pins. Load barbell to ~60-70% of squat max. Descend to target angle and hold isometrically. Safety pins should be set just below hold depth.",
+      "progression_steps": "1. Light load (40% max) at 90 degrees. 2. Moderate load (60% max) at 90 degrees. 3. Heavy load (70% max) at 90 degrees. 4. Moderate load at 60 degrees.",
+      "form_cues": "Set up in squat rack with safety pins. Unrack barbell, descend to target depth, and hold perfectly still. Brace core, chest up, weight through midfoot. Breathe with bracing.",
+      "safety_notes": "Always use a squat rack with safety pins. Have a spotter if possible. This is an advanced exercise \u2014 master bodyweight isometrics first. Stop immediately if form breaks.",
+      "video_url": "https://www.youtube.com/watch?v=bEv6CCg2BC8"
+    }
+  ],
+  "metadata": {
+    "progress_indicators": [
+      "Pain reduction (e.g., pain less than 3/10 on a numeric pain-rating scale).",
+      "Increased load tolerance.",
+      "Improved strength and function.",
+      "Return to baseline pain levels 24 hours after loading.",
+      "For Achilles tendon repair, isokinetic/isometric strength greater than 90% Limb Symmetry Index (LSI)."
+    ],
+    "transition_criteria": {
+      "rehab_to_maintenance": [
+        "Ability to perform sport-specific movements without pain.",
+        "Demonstrated tolerance to full training load.",
+        "Completion of a return-to-run program without pain or swelling.",
+        "Lower extremity functional tests at or above 90% compared to the contralateral side for unilateral tests.",
+        "Psychological readiness to return to sport."
+      ],
+      "maintenance_protocol_details": "Maintenance protocols involve continuing with the exercises that were effective during rehab, but with a reduced frequency (e.g., 2-3 times per week). The focus is on maintaining strength and tendon health, and preventing re-injury. It is also important to continue with a balanced training program that includes both fast and slow movements to maintain tendon stiffness and compliance."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+# Claude Code
+.claude/settings.local.json
+
+# Source archives / downloads
+*.tar.gz
+*.zip
+*.pdf
+
+# Dependencies
+tendon_health_export/nextjs_space/node_modules/
+
+# Next.js build output
+tendon_health_export/nextjs_space/.next/
+tendon_health_export/nextjs_space/out/
+tendon_health_export/nextjs_space/tsconfig.tsbuildinfo
+
+# Environment files
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db

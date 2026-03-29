@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "TendonCare Dev",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\yarn.cmd",
+      "runtimeArgs": ["--cwd", "tendon_health_export/nextjs_space", "dev"],
+      "port": 3000
+    },
+    {
+      "name": "TendonCare Production",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+      "runtimeArgs": ["tendon_health_export/nextjs_space/serve-static.js"],
+      "port": 3000
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#14b8a6"/>
+  <path d="M128 40 Q100 60 100 90 L100 166 Q100 196 128 216 Q156 196 156 166 L156 90 Q156 60 128 40 Z" fill="#10b981" opacity="0.3"/>
+  <path d="M110 70 Q110 60 120 55 L136 55 Q146 60 146 70 L146 100 L110 100 Z" fill="#059669"/>
+  <path d="M110 120 L146 120 L146 150 Q146 160 136 165 L120 165 Q110 160 110 150 Z" fill="#0d9488"/>
+  <path d="M110 170 Q110 165 115 162 L141 162 Q146 165 146 170 L146 190 Q146 200 136 205 L120 205 Q110 200 110 190 Z" fill="#059669"/>
+  <rect x="95" y="95" width="66" height="8" rx="4" fill="#ecfdf5"/>
+  <rect x="95" y="145" width="66" height="8" rx="4" fill="#ecfdf5"/>
+  <text x="128" y="140" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">T</text>
+</svg>
