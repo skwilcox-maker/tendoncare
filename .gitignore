@@ -8,6 +8,7 @@
 
 # Dependencies
 tendon_health_export/nextjs_space/node_modules/
+tendon_health_export/nextjs_space/.yarn/install-state.gz
 
 # Next.js build output
 tendon_health_export/nextjs_space/.next/
